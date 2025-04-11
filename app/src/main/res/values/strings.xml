@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_description_1">Traditional Nomadic from The Central Asia</string>
+    <string name="artist_1">Fadhil Abhimantra</string>
+    <string name="art_date_1">(2023)</string>
+    <string name="art_description_2">Sky Scrapper in the Central Toyko</string>
+    <string name="artist_2">Gabriel Guimaraes</string>
+    <string name="art_date_2">(2019)</string>
+    <string name="art_description_3">Peace Found on Desk in Coffee Shop</string>
+    <string name="artist_3">Steven Blake</string>
+    <string name="art_date_3">(2024)</string>
+    <string name="art_description_4">The Man of Great Ideas</string>
+    <string name="artist_4">Bayka Degi</string>
+    <string name="art_date_4">(2017)</string>
+</resources>
